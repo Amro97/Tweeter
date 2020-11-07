@@ -3,6 +3,23 @@ body{
     font-family: 'Balthazar', serif;
 }
 
+span{
+    display: inline-block;
+    margin-right: 5px;
+    
+}
+.remove{
+    font-weight: bolder;
+    color: red;
+}
+.Ipt{
+    margin-right: 3px;
+}
+.deleteBtn{
+    background-color:darkred;
+    color: #ecf0f1;
+    margin-top:10px;
+}
 #container{
     display: grid;
     grid-gap: 20px;
